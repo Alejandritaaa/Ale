@@ -1,0 +1,26 @@
+body
+{background-color:plum}
+h1
+{color:blue}
+.parrafo
+{color:brown;background-color:blueviolet;}
+#sapos
+{color:aqua} 
+#contenedor1 {
+    width:9vw;
+    height:24vw;
+    border: 4px solid blueviolet;
+}
+#contenedor2 {
+    width:34vw ;
+    height: 8vw;
+    border:4px solid black;
+    margin:1px
+}
+.fresassss {
+    width: 14%;
+    height: 14%;
+    background-color: red;
+    border: 2px solid #ffffff;
+    margin: 4px;
+}
